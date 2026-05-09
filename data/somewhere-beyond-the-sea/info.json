@@ -1,0 +1,166 @@
+{
+  "id": "somewhere-beyond-the-sea",
+  "title": "Somewhere Beyond the Sea",
+  "author": "TJ Klune",
+  "description": "",
+  "filename": "Somewhere Beyond the Sea -- TJ Klune -- 2024 -- Pan Macmillan -- dbd3871c79f640b2d0827a3cc163d179 -- Anna’s Archive.epub",
+  "totalWords": 133840,
+  "totalPages": 134,
+  "totalChapters": 22,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Epigraph page",
+      "wordCount": 73,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Stepping off the . . .",
+      "wordCount": 3586,
+      "pageCount": 4,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "ONE",
+      "wordCount": 4271,
+      "pageCount": 5,
+      "startPage": 6
+    },
+    {
+      "index": 4,
+      "title": "TWO",
+      "wordCount": 5373,
+      "pageCount": 6,
+      "startPage": 11
+    },
+    {
+      "index": 5,
+      "title": "THREE",
+      "wordCount": 3951,
+      "pageCount": 4,
+      "startPage": 17
+    },
+    {
+      "index": 6,
+      "title": "FOUR",
+      "wordCount": 3802,
+      "pageCount": 4,
+      "startPage": 21
+    },
+    {
+      "index": 7,
+      "title": "FIVE",
+      "wordCount": 9671,
+      "pageCount": 10,
+      "startPage": 25
+    },
+    {
+      "index": 8,
+      "title": "SIX",
+      "wordCount": 9103,
+      "pageCount": 10,
+      "startPage": 35
+    },
+    {
+      "index": 9,
+      "title": "SEVEN",
+      "wordCount": 9759,
+      "pageCount": 10,
+      "startPage": 45
+    },
+    {
+      "index": 10,
+      "title": "EIGHT",
+      "wordCount": 10487,
+      "pageCount": 11,
+      "startPage": 55
+    },
+    {
+      "index": 11,
+      "title": "NINE",
+      "wordCount": 8402,
+      "pageCount": 9,
+      "startPage": 66
+    },
+    {
+      "index": 12,
+      "title": "TEN",
+      "wordCount": 8664,
+      "pageCount": 9,
+      "startPage": 75
+    },
+    {
+      "index": 13,
+      "title": "ELEVEN",
+      "wordCount": 12432,
+      "pageCount": 13,
+      "startPage": 84
+    },
+    {
+      "index": 14,
+      "title": "TWELVE",
+      "wordCount": 7571,
+      "pageCount": 8,
+      "startPage": 97
+    },
+    {
+      "index": 15,
+      "title": "THIRTEEN",
+      "wordCount": 3547,
+      "pageCount": 4,
+      "startPage": 105
+    },
+    {
+      "index": 16,
+      "title": "FOURTEEN",
+      "wordCount": 11217,
+      "pageCount": 12,
+      "startPage": 109
+    },
+    {
+      "index": 17,
+      "title": "FIFTEEN",
+      "wordCount": 13044,
+      "pageCount": 14,
+      "startPage": 121
+    },
+    {
+      "index": 18,
+      "title": "EPILOGUE",
+      "wordCount": 6886,
+      "pageCount": 7,
+      "startPage": 135
+    },
+    {
+      "index": 19,
+      "title": "ACKNOWLEDGMENTS",
+      "wordCount": 1567,
+      "pageCount": 2,
+      "startPage": 142
+    },
+    {
+      "index": 20,
+      "title": "About the Author",
+      "wordCount": 73,
+      "pageCount": 1,
+      "startPage": 144
+    },
+    {
+      "index": 21,
+      "title": "By TJ Klune",
+      "wordCount": 124,
+      "pageCount": 1,
+      "startPage": 145
+    },
+    {
+      "index": 22,
+      "title": "Copyright page",
+      "wordCount": 237,
+      "pageCount": 1,
+      "startPage": 146
+    }
+  ]
+}

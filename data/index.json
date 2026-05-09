@@ -19,6 +19,15 @@
       "totalChapters": 24
     },
     {
+      "id": "cerulean-chronicles-1-the-house-in-the-cerulean-sea",
+      "title": "Cerulean Chronicles 1_ The House in the Cerulean Sea",
+      "author": "Tj Klune",
+      "description": "",
+      "totalWords": 116492,
+      "totalPages": 117,
+      "totalChapters": 24
+    },
+    {
       "id": "does-god-play-dice-the-new-mathematics-of-chaos",
       "title": "Does God Play Dice?: The New Mathematics of Chaos",
       "author": "Ian Stewart",
@@ -152,6 +161,15 @@
       "totalWords": 53848,
       "totalPages": 54,
       "totalChapters": 12
+    },
+    {
+      "id": "somewhere-beyond-the-sea",
+      "title": "Somewhere Beyond the Sea",
+      "author": "TJ Klune",
+      "description": "",
+      "totalWords": 133840,
+      "totalPages": 134,
+      "totalChapters": 22
     },
     {
       "id": "the-alignment-problem",
@@ -370,5 +388,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-09T21:51:07.377Z"
+  "updatedAt": "2026-05-09T23:53:20.166Z"
 }
