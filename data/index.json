@@ -1,6 +1,15 @@
 {
   "books": [
     {
+      "id": "a-court-of-thorns-and-roses",
+      "title": "A Court of Thorns and Roses",
+      "author": "Sarah J. Maas",
+      "description": "When nineteen-year-old huntress Feyre kills a wolf in the woods, a beast-like creature arrives to demand retribution for it. Dragged to a treacherous magical land she only knows about from legends, Feyre discovers that her captor is not an animal, but Tamlin—one of the lethal, immortal faeries who once ruled their world. As she dwells on his estate, her feelings for Tamlin transform from icy hostility into a fiery passion that burns through every lie and warning she’s been told about the beautif",
+      "totalWords": 130320,
+      "totalPages": 131,
+      "totalChapters": 50
+    },
+    {
       "id": "attached-are-you-anxious-avoidant-or-secure-how-the-science-of-adult-attachment-can-help-you-find-and-keep-love",
       "title": "Attached: Are you Anxious, Avoidant or Secure? How the science of adult attachment can help you find – and keep – love",
       "author": "Levine, Amir",
@@ -361,5 +370,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-04T21:39:08.490Z"
+  "updatedAt": "2026-05-09T21:51:07.377Z"
 }
