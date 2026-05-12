@@ -334,6 +334,15 @@
       "totalChapters": 0
     },
     {
+      "id": "witch-king",
+      "title": "Witch King",
+      "author": "Martha Wells",
+      "description": "A LibraryReads Pick! From the breakout SFF superstar author of Murderbot comes a remarkable story of power and friendship, of trust and betrayal, and of the families we choose. \"I didn't know you were a... demon.\" \"You idiot. I'm the demon.\" Kai's having a long day in Martha Wells' WITCH KING.... After being murdered, his consciousness dormant and unaware of the passing of time while confined in an elaborate water trap, Kai wakes to find a lesser mage attempting to harness Kai's magic to his own",
+      "totalWords": 136474,
+      "totalPages": 137,
+      "totalChapters": 35
+    },
+    {
       "id": "zodiac-academy-3-the-reckoning-an-academy-bully-romance-supernatural-bullies-and-beasts",
       "title": "Zodiac Academy 3: The Reckoning: An Academy Bully Romance (Supernatural Bullies and Beasts)",
       "author": "Caroline Peckham",
@@ -388,5 +397,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-09T23:53:20.166Z"
+  "updatedAt": "2026-05-12T14:01:55.150Z"
 }
