@@ -136,6 +136,15 @@
       "totalChapters": 35
     },
     {
+      "id": "postcolonial-love-poem",
+      "title": "Postcolonial Love Poem",
+      "author": "Natalie Diaz",
+      "description": "Natalie Diaz's highly anticipated follow-up to When My Brother Was an Aztec , winner of an American Book Award Postcolonial Love Poem is an anthem of desire against erasure. Natalie Diaz's brilliant second collection demands that every body carried in its pages&#8212;bodies of language, land, rivers, suffering brothers, enemies, and lovers&#8212;be touched and held as beloveds. Through these poems, the wounds inflicted by America onto an indigenous people are allowed to bloom pleasure and tender",
+      "totalWords": 17168,
+      "totalPages": 18,
+      "totalChapters": 39
+    },
+    {
       "id": "pratchett-terry-discworld-16-soul-music",
       "title": "Pratchett, Terry - Discworld 16 - Soul Music",
       "author": "Pratchett, Terry",
@@ -397,5 +406,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-12T14:01:55.150Z"
+  "updatedAt": "2026-05-12T22:15:32.148Z"
 }
