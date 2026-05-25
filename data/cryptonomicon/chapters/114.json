@@ -1,0 +1,6 @@
+{
+  "index": 114,
+  "title": "Security through Obscurity",
+  "wordCount": 187,
+  "text": "S ECURITY T HROUGH O BSCURITY Solitaire is designed to be secure even if the enemy knows how the algorithm works. I have assumed that Cryptonomicon will be a best seller, and that copies will be available everywhere. I assume that the NSA and everyone else will study the algorithm and will watch for it. I assume that the only secret is the key. That’s why keeping the key secret is so important. If you have a deck of cards in a safe place, you should assume the enemy will at least entertain the thought that you are using Solitaire. If you have a bridge column in your safe deposit box, you should expect to raise a few eyebrows. If any group is known to be using the algorithm, expect the secret police to maintain a database of bridge columns to use in cracking attempts. Solitaire is strong even if the enemy knows you are using it, and a simple deck of playing cards is still much less incriminating than a software encryption program running on your laptop, but the algorithm is no substitute for street smarts."
+}

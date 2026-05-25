@@ -1,0 +1,6 @@
+{
+  "index": 110,
+  "title": "Decrypting with Solitaire",
+  "wordCount": 223,
+  "text": "D ECRYPTING WITH S OLITAIRE The basic idea is that the receiver generates the same keystream, and then subtracts the keystream letters from the ciphertext letters. 1. Take the ciphertext message and put it in five character groups. (It should already be in this form.) O S K J J J G T M W 2. Use Solitaire to generate ten keystream letters. If the receiver uses the same key as the sender, the keystream letters will be the same: K D W U P O N O W T 3. Convert the ciphertext message from letters into numbers: 15 19 11 10 10 10 7 20 13 23 4. Convert the keystream letters similarly: 11 4 23 21 16 15 14 15 23 20 5. Subtract the keystream numbers from the ciphertext numbers, modulo 26. For example, 22 - 1 = 20, 1 - 22 = 5. (It’s easy. If the first number is less than the second number, add 26 to the first number before subtracting. So 1 - 22 = ? becomes 27 - 22 = 5.) 4 15 14 15 20 21 19 5 16 3 6. Convert the numbers back to letters. D O N O T U S E P C Decryption is the same as encryption, except that you subtract the keystream from the ciphertext message."
+}

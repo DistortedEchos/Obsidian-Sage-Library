@@ -1,0 +1,6 @@
+{
+  "index": 113,
+  "title": "Sample Output",
+  "wordCount": 231,
+  "text": "S AMPLE O UTPUT Here’s some sample data to practice your Solitaire skills with: Sample 1: Start with an unkeyed deck: A ♣ through K ♣, A ♥ through K ♥, A ♦ through K ♦, A ♠ through K ♠, A joker, B joker (you can think of this as 1-52, A , B ). The first ten outputs are: 4 49 10 (53) 24 8 51 44 6 33 The 53 is skipped, of course. I just put it there for demonstration. If the plain text is: A A A A A A A A A A then the cipher text is: E X K Y I Z S G E H Sample 2: Using keying method 3 and the key “FOO,” the first fifteen outputs are: 8 19 7 25 20 (53) 9 8 22 32 43 5 26 17 (53) 38 48 If the plain text is all As, the cipher text is: I T H Z U J I W G R F A R M W Sample 3: Using keying method 3 and the key “CRYPTONOMICON,” the message “SOLITAIRE” encrypts to: K I R A K S F J A N Of course, you should use a longer key. These samples are for test purposes only. There are more samples on the website, and you can use the book’s PERL script to create your own."
+}

@@ -1,0 +1,880 @@
+{
+  "id": "cryptonomicon",
+  "title": "Cryptonomicon",
+  "author": "Neal Stephenson",
+  "description": "SUMMARY: With this extraordinary first volume in what promises to be an epoch-making masterpiece, Neal Stephenson hacks into the secret histories of nations and the private obsessions of men, decrypting with dazzling virtuosity the forces that shaped this century.In 1942, Lawrence Pritchard Waterhouse - mathematical genius and young Captain in the U.S. Navy - is assigned to detachment 2702. It is an outfit so secret that only a handful of people know it exists, and some of those people have name",
+  "filename": "Cryptonomicon_Neal Stephenson.epub",
+  "totalWords": 462129,
+  "totalPages": 463,
+  "totalChapters": 124,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "About Cryptonomicon",
+      "wordCount": 451,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Contents",
+      "wordCount": 191,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Acknowledgements",
+      "wordCount": 498,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Epigraphs",
+      "wordCount": 172,
+      "pageCount": 1,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "Prologue",
+      "wordCount": 1683,
+      "pageCount": 2,
+      "startPage": 5
+    },
+    {
+      "index": 6,
+      "title": "Barrens",
+      "wordCount": 7774,
+      "pageCount": 8,
+      "startPage": 7
+    },
+    {
+      "index": 7,
+      "title": "Novus Ordo Seclorum",
+      "wordCount": 3252,
+      "pageCount": 4,
+      "startPage": 15
+    },
+    {
+      "index": 8,
+      "title": "Seaweed",
+      "wordCount": 8190,
+      "pageCount": 9,
+      "startPage": 19
+    },
+    {
+      "index": 9,
+      "title": "Forays",
+      "wordCount": 6511,
+      "pageCount": 7,
+      "startPage": 28
+    },
+    {
+      "index": 10,
+      "title": "Indigo",
+      "wordCount": 5856,
+      "pageCount": 6,
+      "startPage": 35
+    },
+    {
+      "index": 11,
+      "title": "The Spawn of Onan",
+      "wordCount": 4554,
+      "pageCount": 5,
+      "startPage": 41
+    },
+    {
+      "index": 12,
+      "title": "Burn",
+      "wordCount": 1706,
+      "pageCount": 2,
+      "startPage": 46
+    },
+    {
+      "index": 13,
+      "title": "Pedestrian",
+      "wordCount": 2495,
+      "pageCount": 3,
+      "startPage": 48
+    },
+    {
+      "index": 14,
+      "title": "Guadalcanal",
+      "wordCount": 1126,
+      "pageCount": 2,
+      "startPage": 51
+    },
+    {
+      "index": 15,
+      "title": "Galleon",
+      "wordCount": 4848,
+      "pageCount": 5,
+      "startPage": 53
+    },
+    {
+      "index": 16,
+      "title": "Nightmare",
+      "wordCount": 3740,
+      "pageCount": 4,
+      "startPage": 58
+    },
+    {
+      "index": 17,
+      "title": "Londinium",
+      "wordCount": 3639,
+      "pageCount": 4,
+      "startPage": 62
+    },
+    {
+      "index": 18,
+      "title": "Corregidor",
+      "wordCount": 4896,
+      "pageCount": 5,
+      "startPage": 66
+    },
+    {
+      "index": 19,
+      "title": "Tube",
+      "wordCount": 5044,
+      "pageCount": 6,
+      "startPage": 71
+    },
+    {
+      "index": 20,
+      "title": "Meat",
+      "wordCount": 5562,
+      "pageCount": 6,
+      "startPage": 77
+    },
+    {
+      "index": 21,
+      "title": "Cycles",
+      "wordCount": 6162,
+      "pageCount": 7,
+      "startPage": 83
+    },
+    {
+      "index": 22,
+      "title": "Aloft",
+      "wordCount": 4014,
+      "pageCount": 5,
+      "startPage": 90
+    },
+    {
+      "index": 23,
+      "title": "Non-disclosure",
+      "wordCount": 3970,
+      "pageCount": 4,
+      "startPage": 95
+    },
+    {
+      "index": 24,
+      "title": "Ultra",
+      "wordCount": 3913,
+      "pageCount": 4,
+      "startPage": 99
+    },
+    {
+      "index": 25,
+      "title": "Kinakuta",
+      "wordCount": 1108,
+      "pageCount": 2,
+      "startPage": 103
+    },
+    {
+      "index": 26,
+      "title": "Qwghlm House",
+      "wordCount": 2611,
+      "pageCount": 3,
+      "startPage": 105
+    },
+    {
+      "index": 27,
+      "title": "Electrical Till Corporation",
+      "wordCount": 823,
+      "pageCount": 1,
+      "startPage": 108
+    },
+    {
+      "index": 28,
+      "title": "Crypt",
+      "wordCount": 4794,
+      "pageCount": 5,
+      "startPage": 109
+    },
+    {
+      "index": 29,
+      "title": "Lizard",
+      "wordCount": 3543,
+      "pageCount": 4,
+      "startPage": 114
+    },
+    {
+      "index": 30,
+      "title": "The Castle",
+      "wordCount": 3920,
+      "pageCount": 4,
+      "startPage": 118
+    },
+    {
+      "index": 31,
+      "title": "Why",
+      "wordCount": 6127,
+      "pageCount": 7,
+      "startPage": 122
+    },
+    {
+      "index": 32,
+      "title": "Retrograde Maneuver",
+      "wordCount": 852,
+      "pageCount": 1,
+      "startPage": 129
+    },
+    {
+      "index": 33,
+      "title": "Huffduff",
+      "wordCount": 2745,
+      "pageCount": 3,
+      "startPage": 130
+    },
+    {
+      "index": 34,
+      "title": "Pages",
+      "wordCount": 702,
+      "pageCount": 1,
+      "startPage": 133
+    },
+    {
+      "index": 35,
+      "title": "Ram",
+      "wordCount": 7439,
+      "pageCount": 8,
+      "startPage": 134
+    },
+    {
+      "index": 36,
+      "title": "Diligence",
+      "wordCount": 2795,
+      "pageCount": 3,
+      "startPage": 142
+    },
+    {
+      "index": 37,
+      "title": "Spearhead",
+      "wordCount": 3535,
+      "pageCount": 4,
+      "startPage": 145
+    },
+    {
+      "index": 38,
+      "title": "Morphium",
+      "wordCount": 2115,
+      "pageCount": 3,
+      "startPage": 149
+    },
+    {
+      "index": 39,
+      "title": "Suit",
+      "wordCount": 2010,
+      "pageCount": 3,
+      "startPage": 152
+    },
+    {
+      "index": 40,
+      "title": "Cracker",
+      "wordCount": 3261,
+      "pageCount": 4,
+      "startPage": 155
+    },
+    {
+      "index": 41,
+      "title": "Sultan",
+      "wordCount": 4493,
+      "pageCount": 5,
+      "startPage": 159
+    },
+    {
+      "index": 42,
+      "title": "Skipping",
+      "wordCount": 3425,
+      "pageCount": 4,
+      "startPage": 164
+    },
+    {
+      "index": 43,
+      "title": "Mugs",
+      "wordCount": 2877,
+      "pageCount": 3,
+      "startPage": 168
+    },
+    {
+      "index": 44,
+      "title": "Yamamoto",
+      "wordCount": 1937,
+      "pageCount": 2,
+      "startPage": 171
+    },
+    {
+      "index": 45,
+      "title": "Antaeus",
+      "wordCount": 4116,
+      "pageCount": 5,
+      "startPage": 173
+    },
+    {
+      "index": 46,
+      "title": "Phreaking",
+      "wordCount": 7130,
+      "pageCount": 8,
+      "startPage": 178
+    },
+    {
+      "index": 47,
+      "title": "Afloat",
+      "wordCount": 3400,
+      "pageCount": 4,
+      "startPage": 186
+    },
+    {
+      "index": 48,
+      "title": "Shinola",
+      "wordCount": 3873,
+      "pageCount": 4,
+      "startPage": 190
+    },
+    {
+      "index": 49,
+      "title": "Hostilities",
+      "wordCount": 3210,
+      "pageCount": 4,
+      "startPage": 194
+    },
+    {
+      "index": 50,
+      "title": "Funkspiel",
+      "wordCount": 3689,
+      "pageCount": 4,
+      "startPage": 198
+    },
+    {
+      "index": 51,
+      "title": "Heap",
+      "wordCount": 2835,
+      "pageCount": 3,
+      "startPage": 202
+    },
+    {
+      "index": 52,
+      "title": "Seeky",
+      "wordCount": 7803,
+      "pageCount": 8,
+      "startPage": 205
+    },
+    {
+      "index": 53,
+      "title": "Cannibals",
+      "wordCount": 4037,
+      "pageCount": 5,
+      "startPage": 213
+    },
+    {
+      "index": 54,
+      "title": "Wreck",
+      "wordCount": 4601,
+      "pageCount": 5,
+      "startPage": 218
+    },
+    {
+      "index": 55,
+      "title": "Santa Monica",
+      "wordCount": 1554,
+      "pageCount": 2,
+      "startPage": 223
+    },
+    {
+      "index": 56,
+      "title": "Outpost",
+      "wordCount": 2175,
+      "pageCount": 3,
+      "startPage": 225
+    },
+    {
+      "index": 57,
+      "title": "Meteor",
+      "wordCount": 2471,
+      "pageCount": 3,
+      "startPage": 228
+    },
+    {
+      "index": 58,
+      "title": "Lavender Rose",
+      "wordCount": 2528,
+      "pageCount": 3,
+      "startPage": 231
+    },
+    {
+      "index": 59,
+      "title": "Brisbane",
+      "wordCount": 1881,
+      "pageCount": 2,
+      "startPage": 234
+    },
+    {
+      "index": 60,
+      "title": "Donitz",
+      "wordCount": 3267,
+      "pageCount": 4,
+      "startPage": 236
+    },
+    {
+      "index": 61,
+      "title": "Crunch",
+      "wordCount": 4867,
+      "pageCount": 5,
+      "startPage": 240
+    },
+    {
+      "index": 62,
+      "title": "Girl",
+      "wordCount": 2184,
+      "pageCount": 3,
+      "startPage": 245
+    },
+    {
+      "index": 63,
+      "title": "Conspiracy",
+      "wordCount": 7312,
+      "pageCount": 8,
+      "startPage": 248
+    },
+    {
+      "index": 64,
+      "title": "Hoard",
+      "wordCount": 9121,
+      "pageCount": 10,
+      "startPage": 256
+    },
+    {
+      "index": 65,
+      "title": "Rocket",
+      "wordCount": 6179,
+      "pageCount": 7,
+      "startPage": 266
+    },
+    {
+      "index": 66,
+      "title": "Courting",
+      "wordCount": 3471,
+      "pageCount": 4,
+      "startPage": 273
+    },
+    {
+      "index": 67,
+      "title": "I.N.R.I.",
+      "wordCount": 3688,
+      "pageCount": 4,
+      "startPage": 277
+    },
+    {
+      "index": 68,
+      "title": "California",
+      "wordCount": 3450,
+      "pageCount": 4,
+      "startPage": 281
+    },
+    {
+      "index": 69,
+      "title": "Organ",
+      "wordCount": 3424,
+      "pageCount": 4,
+      "startPage": 285
+    },
+    {
+      "index": 70,
+      "title": "Home",
+      "wordCount": 4121,
+      "pageCount": 5,
+      "startPage": 289
+    },
+    {
+      "index": 71,
+      "title": "Bundok",
+      "wordCount": 1874,
+      "pageCount": 2,
+      "startPage": 294
+    },
+    {
+      "index": 72,
+      "title": "Computer",
+      "wordCount": 4582,
+      "pageCount": 5,
+      "startPage": 296
+    },
+    {
+      "index": 73,
+      "title": "Caravan",
+      "wordCount": 3783,
+      "pageCount": 4,
+      "startPage": 301
+    },
+    {
+      "index": 74,
+      "title": "The General",
+      "wordCount": 4983,
+      "pageCount": 5,
+      "startPage": 305
+    },
+    {
+      "index": 75,
+      "title": "Origin",
+      "wordCount": 5997,
+      "pageCount": 6,
+      "startPage": 310
+    },
+    {
+      "index": 76,
+      "title": "Golgotha",
+      "wordCount": 2825,
+      "pageCount": 3,
+      "startPage": 316
+    },
+    {
+      "index": 77,
+      "title": "Seattle",
+      "wordCount": 6839,
+      "pageCount": 7,
+      "startPage": 319
+    },
+    {
+      "index": 78,
+      "title": "Rock",
+      "wordCount": 3502,
+      "pageCount": 4,
+      "startPage": 326
+    },
+    {
+      "index": 79,
+      "title": "The Most Cigarettes",
+      "wordCount": 5067,
+      "pageCount": 6,
+      "startPage": 330
+    },
+    {
+      "index": 80,
+      "title": "Christmas 1944",
+      "wordCount": 3163,
+      "pageCount": 4,
+      "startPage": 336
+    },
+    {
+      "index": 81,
+      "title": "Pulse",
+      "wordCount": 4407,
+      "pageCount": 5,
+      "startPage": 340
+    },
+    {
+      "index": 82,
+      "title": "Buddha",
+      "wordCount": 3258,
+      "pageCount": 4,
+      "startPage": 345
+    },
+    {
+      "index": 83,
+      "title": "Pontifex",
+      "wordCount": 4148,
+      "pageCount": 5,
+      "startPage": 349
+    },
+    {
+      "index": 84,
+      "title": "Glory",
+      "wordCount": 3101,
+      "pageCount": 4,
+      "startPage": 354
+    },
+    {
+      "index": 85,
+      "title": "The Primary",
+      "wordCount": 5790,
+      "pageCount": 6,
+      "startPage": 358
+    },
+    {
+      "index": 86,
+      "title": "Deluge",
+      "wordCount": 3978,
+      "pageCount": 4,
+      "startPage": 364
+    },
+    {
+      "index": 87,
+      "title": "Bust",
+      "wordCount": 3061,
+      "pageCount": 4,
+      "startPage": 368
+    },
+    {
+      "index": 88,
+      "title": "The Battle of Manila",
+      "wordCount": 3726,
+      "pageCount": 4,
+      "startPage": 372
+    },
+    {
+      "index": 89,
+      "title": "Captivity",
+      "wordCount": 4781,
+      "pageCount": 5,
+      "startPage": 376
+    },
+    {
+      "index": 90,
+      "title": "Glamor",
+      "wordCount": 5668,
+      "pageCount": 6,
+      "startPage": 381
+    },
+    {
+      "index": 91,
+      "title": "Wisdom",
+      "wordCount": 4483,
+      "pageCount": 5,
+      "startPage": 387
+    },
+    {
+      "index": 92,
+      "title": "Fall",
+      "wordCount": 2261,
+      "pageCount": 3,
+      "startPage": 392
+    },
+    {
+      "index": 93,
+      "title": "Metis",
+      "wordCount": 9247,
+      "pageCount": 10,
+      "startPage": 395
+    },
+    {
+      "index": 94,
+      "title": "Slaves",
+      "wordCount": 1827,
+      "pageCount": 2,
+      "startPage": 405
+    },
+    {
+      "index": 95,
+      "title": "Arethusa",
+      "wordCount": 6318,
+      "pageCount": 7,
+      "startPage": 407
+    },
+    {
+      "index": 96,
+      "title": "The Basement",
+      "wordCount": 2327,
+      "pageCount": 3,
+      "startPage": 414
+    },
+    {
+      "index": 97,
+      "title": "Akihabara",
+      "wordCount": 4621,
+      "pageCount": 5,
+      "startPage": 417
+    },
+    {
+      "index": 98,
+      "title": "Project X",
+      "wordCount": 2432,
+      "pageCount": 3,
+      "startPage": 422
+    },
+    {
+      "index": 99,
+      "title": "Landfall",
+      "wordCount": 1447,
+      "pageCount": 2,
+      "startPage": 425
+    },
+    {
+      "index": 100,
+      "title": "Goto-sama",
+      "wordCount": 3184,
+      "pageCount": 4,
+      "startPage": 427
+    },
+    {
+      "index": 101,
+      "title": "R.I.P.",
+      "wordCount": 1497,
+      "pageCount": 2,
+      "startPage": 431
+    },
+    {
+      "index": 102,
+      "title": "Return",
+      "wordCount": 7045,
+      "pageCount": 8,
+      "startPage": 433
+    },
+    {
+      "index": 103,
+      "title": "Cribs",
+      "wordCount": 3454,
+      "pageCount": 4,
+      "startPage": 441
+    },
+    {
+      "index": 104,
+      "title": "Cayuse",
+      "wordCount": 3666,
+      "pageCount": 4,
+      "startPage": 445
+    },
+    {
+      "index": 105,
+      "title": "Black Chamber",
+      "wordCount": 3469,
+      "pageCount": 4,
+      "startPage": 449
+    },
+    {
+      "index": 106,
+      "title": "Passage",
+      "wordCount": 2377,
+      "pageCount": 3,
+      "startPage": 453
+    },
+    {
+      "index": 107,
+      "title": "Liquidity",
+      "wordCount": 1616,
+      "pageCount": 2,
+      "startPage": 456
+    },
+    {
+      "index": 108,
+      "title": "Appendix",
+      "wordCount": 333,
+      "pageCount": 1,
+      "startPage": 458
+    },
+    {
+      "index": 109,
+      "title": "Encrypting with Solitaire",
+      "wordCount": 350,
+      "pageCount": 1,
+      "startPage": 459
+    },
+    {
+      "index": 110,
+      "title": "Decrypting with Solitaire",
+      "wordCount": 223,
+      "pageCount": 1,
+      "startPage": 460
+    },
+    {
+      "index": 111,
+      "title": "Generating the Keystream Letters",
+      "wordCount": 1029,
+      "pageCount": 2,
+      "startPage": 461
+    },
+    {
+      "index": 112,
+      "title": "Keying the Deck",
+      "wordCount": 505,
+      "pageCount": 1,
+      "startPage": 463
+    },
+    {
+      "index": 113,
+      "title": "Sample Output",
+      "wordCount": 231,
+      "pageCount": 1,
+      "startPage": 464
+    },
+    {
+      "index": 114,
+      "title": "Security through Obscurity",
+      "wordCount": 187,
+      "pageCount": 1,
+      "startPage": 465
+    },
+    {
+      "index": 115,
+      "title": "Operational Notes",
+      "wordCount": 252,
+      "pageCount": 1,
+      "startPage": 466
+    },
+    {
+      "index": 116,
+      "title": "Security Analysis",
+      "wordCount": 33,
+      "pageCount": 1,
+      "startPage": 467
+    },
+    {
+      "index": 117,
+      "title": "Learning More",
+      "wordCount": 74,
+      "pageCount": 1,
+      "startPage": 468
+    },
+    {
+      "index": 118,
+      "title": "Stephensonia/Cryptonomica",
+      "wordCount": 23501,
+      "pageCount": 24,
+      "startPage": 469
+    },
+    {
+      "index": 119,
+      "title": "Chapter 119",
+      "wordCount": 26198,
+      "pageCount": 27,
+      "startPage": 493
+    },
+    {
+      "index": 120,
+      "title": "Raves for Cryptonomicon",
+      "wordCount": 905,
+      "pageCount": 1,
+      "startPage": 520
+    },
+    {
+      "index": 121,
+      "title": "About the Author",
+      "wordCount": 88,
+      "pageCount": 1,
+      "startPage": 521
+    },
+    {
+      "index": 122,
+      "title": "Copyright",
+      "wordCount": 182,
+      "pageCount": 1,
+      "startPage": 522
+    },
+    {
+      "index": 123,
+      "title": "First Look",
+      "wordCount": 4412,
+      "pageCount": 5,
+      "startPage": 523
+    },
+    {
+      "index": 124,
+      "title": "About the Publisher",
+      "wordCount": 76,
+      "pageCount": 1,
+      "startPage": 528
+    }
+  ]
+}
