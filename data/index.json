@@ -73,6 +73,15 @@
       "totalChapters": 40
     },
     {
+      "id": "if-we-were-villains-a-novel",
+      "title": "If We Were Villains: a Novel",
+      "author": "M. L. Rio",
+      "description": "\"Much like Donna Tartt's The Secret History , M. L. Rio's sparkling debut is a richly layered story of love, friendship, and obsession...will keep you riveted through its final, electrifying moments.\" &#8212;Cynthia D'Aprix Sweeney, New York Times bestselling author of The Nest \"Nerdily (and winningly) in love with Shakespeare...Readable, smart.\" &#8212; New York Times Book Review On the day Oliver Marks is released from jail, the man who put him there is waiting at the door. Detective Colborne ",
+      "totalWords": 109207,
+      "totalPages": 110,
+      "totalChapters": 71
+    },
+    {
       "id": "learning-to-love-the-spaces-in-between",
       "title": "Learning to Love the Spaces in Between",
       "author": "Claire Gillman",
@@ -415,5 +424,5 @@
       "totalChapters": 52
     }
   ],
-  "updatedAt": "2026-05-13T00:22:07.955Z"
+  "updatedAt": "2026-05-25T01:54:40.465Z"
 }
