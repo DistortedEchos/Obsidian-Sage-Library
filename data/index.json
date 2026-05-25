@@ -280,6 +280,15 @@
       "totalChapters": 24
     },
     {
+      "id": "tartt-the-secret-history",
+      "title": "Tartt The Secret History",
+      "author": "Donna Tartt",
+      "description": "",
+      "totalWords": 203793,
+      "totalPages": 204,
+      "totalChapters": 15
+    },
+    {
       "id": "the-snow-queen",
       "title": "The Snow Queen",
       "author": "Joan D. Vinge",
@@ -442,5 +451,5 @@
       "totalChapters": 52
     }
   ],
-  "updatedAt": "2026-05-25T02:05:20.577Z"
+  "updatedAt": "2026-05-25T02:09:28.514Z"
 }
