@@ -334,6 +334,15 @@
       "totalChapters": 18
     },
     {
+      "id": "the-wild-fox-of-yemen",
+      "title": "The Wild Fox of Yemen",
+      "author": "Threa Almontaser",
+      "description": "Winner of the Walt Whitman Award of the Academy of American Poets, selected by Harryette Mullen By turns aggressively reckless and fiercely protective, always guided by faith and ancestry, Threa Almontaser's incendiary debut asks how mistranslation can be a form of self-knowledge and survival. A love letter to the country and people of Yemen, a portrait of young Muslim womanhood in New York after 9/11, and an extraordinarily composed examination of what it means to carry in the body the echoes o",
+      "totalWords": 16980,
+      "totalPages": 17,
+      "totalChapters": 46
+    },
+    {
       "id": "tomorrow-and-tomorrow-and-tomorrow-a-novel",
       "title": "Tomorrow, and Tomorrow, and Tomorrow_ A novel",
       "author": "Gabrielle Zevin",
@@ -424,5 +433,5 @@
       "totalChapters": 52
     }
   ],
-  "updatedAt": "2026-05-25T01:54:40.465Z"
+  "updatedAt": "2026-05-25T01:59:15.981Z"
 }
