@@ -10,6 +10,15 @@
       "totalChapters": 50
     },
     {
+      "id": "a-soul-to-keep-duskwalker-brides-book-one",
+      "title": "A Soul to Keep: Duskwalker Brides: Book One",
+      "author": "Opal Reyne",
+      "description": "",
+      "totalWords": 163548,
+      "totalPages": 164,
+      "totalChapters": 45
+    },
+    {
       "id": "attached-are-you-anxious-avoidant-or-secure-how-the-science-of-adult-attachment-can-help-you-find-and-keep-love",
       "title": "Attached: Are you Anxious, Avoidant or Secure? How the science of adult attachment can help you find – and keep – love",
       "author": "Levine, Amir",
@@ -469,5 +478,5 @@
       "totalChapters": 52
     }
   ],
-  "updatedAt": "2026-05-28T04:47:25.481Z"
+  "updatedAt": "2026-05-28T05:14:15.569Z"
 }
