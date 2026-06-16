@@ -100,6 +100,15 @@
       "totalChapters": 40
     },
     {
+      "id": "how-to-do-nothing",
+      "title": "How to Do Nothing",
+      "author": "Jenny Odell",
+      "description": "",
+      "totalWords": 72068,
+      "totalPages": 73,
+      "totalChapters": 95
+    },
+    {
       "id": "if-we-were-villains-a-novel",
       "title": "If We Were Villains: a Novel",
       "author": "M. L. Rio",
@@ -487,5 +496,5 @@
       "totalChapters": 52
     }
   ],
-  "updatedAt": "2026-06-16T18:08:16.148Z"
+  "updatedAt": "2026-06-16T18:43:31.063Z"
 }
