@@ -19,6 +19,15 @@
       "totalChapters": 45
     },
     {
+      "id": "all-systems-red-the-murderbot-diaries",
+      "title": "All Systems Red (The Murderbot Diaries)",
+      "author": "Martha Wells",
+      "description": "",
+      "totalWords": 31765,
+      "totalPages": 32,
+      "totalChapters": 15
+    },
+    {
       "id": "attached-are-you-anxious-avoidant-or-secure-how-the-science-of-adult-attachment-can-help-you-find-and-keep-love",
       "title": "Attached: Are you Anxious, Avoidant or Secure? How the science of adult attachment can help you find – and keep – love",
       "author": "Levine, Amir",
@@ -496,5 +505,5 @@
       "totalChapters": 52
     }
   ],
-  "updatedAt": "2026-06-16T18:43:31.063Z"
+  "updatedAt": "2026-06-16T18:55:01.810Z"
 }
