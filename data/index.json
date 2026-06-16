@@ -406,6 +406,15 @@
       "totalChapters": 0
     },
     {
+      "id": "ways-of-being",
+      "title": "Ways of Being",
+      "author": "James Bridle",
+      "description": "",
+      "totalWords": 132436,
+      "totalPages": 133,
+      "totalChapters": 21
+    },
+    {
       "id": "witch-king",
       "title": "Witch King",
       "author": "Martha Wells",
@@ -478,5 +487,5 @@
       "totalChapters": 52
     }
   ],
-  "updatedAt": "2026-05-28T05:14:15.569Z"
+  "updatedAt": "2026-06-16T17:22:47.901Z"
 }
