@@ -244,6 +244,15 @@
       "totalChapters": 30
     },
     {
+      "id": "rogue-protocol",
+      "title": "Rogue Protocol",
+      "author": "Martha Wells",
+      "description": "",
+      "totalWords": 35796,
+      "totalPages": 36,
+      "totalChapters": 12
+    },
+    {
       "id": "slaughterhouse-five-publisher-dell",
       "title": "Slaughterhouse-Five Publisher: Dell",
       "author": "Kurt Vonnegut",
@@ -550,5 +559,5 @@
       "totalChapters": 52
     }
   ],
-  "updatedAt": "2026-08-01T01:14:02.475Z"
+  "updatedAt": "2026-08-01T01:30:03.379Z"
 }
