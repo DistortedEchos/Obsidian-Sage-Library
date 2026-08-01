@@ -1,201 +1,306 @@
 {
   "id": "tomorrow-and-tomorrow-and-tomorrow-a-novel",
-  "title": "Tomorrow, and Tomorrow, and Tomorrow_ A novel",
+  "title": "Tomorrow, and Tomorrow, and Tomorrow: A novel",
   "author": "Gabrielle Zevin",
-  "description": "",
-  "filename": "Tomorrow, and Tomorrow, and Tomorrow_ A novel -- Gabrielle Zevin -- 2022 -- Knopf Doubleday Publishing Group -- dbe76bdcc243df10a120da52a78010f6 -- Anna’s Archive.mobi",
-  "totalWords": 134403,
-  "totalPages": 135,
-  "totalChapters": 27,
+  "description": "In this exhilarating novel by the best-selling author of The Storied Life of A. J. Fikry two friends&mdash;often in love, but never lovers&mdash;come together as creative partners in the world of video game design, where success brings them fame, joy, tragedy, duplicity, and, ultimately, a kind of immortality. \"Utterly brilliant. In this sweeping, gorgeously written novel, Gabrielle Zevin charts the beauty, tenacity, and fragility of human love and creativity. Tomorrow, and Tomorrow, and Tomorro",
+  "filename": "Tomorrow, and Tomorrow, and Tomorrow_ A novel_Gabrielle Zevin.epub",
+  "totalWords": 133887,
+  "totalPages": 134,
+  "totalChapters": 42,
   "chapters": [
     {
       "index": 1,
-      "title": "Part 1",
-      "wordCount": 5000,
-      "pageCount": 5,
+      "title": "Other Titles",
+      "wordCount": 45,
+      "pageCount": 1,
       "startPage": 1
     },
     {
       "index": 2,
-      "title": "Part 2",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 6
+      "title": "Copyright",
+      "wordCount": 267,
+      "pageCount": 1,
+      "startPage": 2
     },
     {
       "index": 3,
-      "title": "Part 3",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 11
+      "title": "Chapter 1",
+      "wordCount": 3754,
+      "pageCount": 4,
+      "startPage": 3
     },
     {
       "index": 4,
-      "title": "Part 4",
-      "wordCount": 5000,
+      "title": "Chapter 2",
+      "wordCount": 4268,
       "pageCount": 5,
-      "startPage": 16
+      "startPage": 7
     },
     {
       "index": 5,
-      "title": "Part 5",
-      "wordCount": 5000,
+      "title": "Chapter 3",
+      "wordCount": 8326,
+      "pageCount": 9,
+      "startPage": 12
+    },
+    {
+      "index": 6,
+      "title": "Chapter 4",
+      "wordCount": 4785,
       "pageCount": 5,
       "startPage": 21
     },
     {
-      "index": 6,
-      "title": "Part 6",
-      "wordCount": 5000,
-      "pageCount": 5,
+      "index": 7,
+      "title": "Chapter 1",
+      "wordCount": 1788,
+      "pageCount": 2,
       "startPage": 26
     },
     {
-      "index": 7,
-      "title": "Part 7",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 31
-    },
-    {
       "index": 8,
-      "title": "Part 8",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 36
+      "title": "Chapter 2",
+      "wordCount": 7343,
+      "pageCount": 8,
+      "startPage": 28
     },
     {
       "index": 9,
-      "title": "Part 9",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 41
+      "title": "Chapter 3",
+      "wordCount": 2408,
+      "pageCount": 3,
+      "startPage": 36
     },
     {
       "index": 10,
-      "title": "Part 10",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 46
+      "title": "Chapter 4",
+      "wordCount": 2686,
+      "pageCount": 3,
+      "startPage": 39
     },
     {
       "index": 11,
-      "title": "Part 11",
-      "wordCount": 5000,
+      "title": "Chapter 5",
+      "wordCount": 4033,
       "pageCount": 5,
-      "startPage": 51
+      "startPage": 42
     },
     {
       "index": 12,
-      "title": "Part 12",
-      "wordCount": 5000,
+      "title": "Chapter 6",
+      "wordCount": 4286,
       "pageCount": 5,
-      "startPage": 56
+      "startPage": 47
     },
     {
       "index": 13,
-      "title": "Part 13",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 61
+      "title": "Chapter 1",
+      "wordCount": 210,
+      "pageCount": 1,
+      "startPage": 52
     },
     {
       "index": 14,
-      "title": "Part 14",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 66
+      "title": "Chapter 2",
+      "wordCount": 2316,
+      "pageCount": 3,
+      "startPage": 53
     },
     {
       "index": 15,
-      "title": "Part 15",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 71
+      "title": "Chapter 3",
+      "wordCount": 1906,
+      "pageCount": 2,
+      "startPage": 56
     },
     {
       "index": 16,
-      "title": "Part 16",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 76
+      "title": "Chapter 4",
+      "wordCount": 3946,
+      "pageCount": 4,
+      "startPage": 58
     },
     {
       "index": 17,
-      "title": "Part 17",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 81
+      "title": "Chapter 5",
+      "wordCount": 8203,
+      "pageCount": 9,
+      "startPage": 62
     },
     {
       "index": 18,
-      "title": "Part 18",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 86
+      "title": "Chapter 6",
+      "wordCount": 1082,
+      "pageCount": 2,
+      "startPage": 71
     },
     {
       "index": 19,
-      "title": "Part 19",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 91
+      "title": "1A",
+      "wordCount": 700,
+      "pageCount": 1,
+      "startPage": 73
     },
     {
       "index": 20,
-      "title": "Part 20",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 96
+      "title": "2A",
+      "wordCount": 1712,
+      "pageCount": 2,
+      "startPage": 74
     },
     {
       "index": 21,
-      "title": "Part 21",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 101
+      "title": "3A",
+      "wordCount": 2156,
+      "pageCount": 3,
+      "startPage": 76
     },
     {
       "index": 22,
-      "title": "Part 22",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 106
+      "title": "4A",
+      "wordCount": 3391,
+      "pageCount": 4,
+      "startPage": 79
     },
     {
       "index": 23,
-      "title": "Part 23",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 111
+      "title": "5A",
+      "wordCount": 3059,
+      "pageCount": 4,
+      "startPage": 83
     },
     {
       "index": 24,
-      "title": "Part 24",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 116
+      "title": "Chapter 1",
+      "wordCount": 3205,
+      "pageCount": 4,
+      "startPage": 87
     },
     {
       "index": 25,
-      "title": "Part 25",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 121
+      "title": "Chapter 2",
+      "wordCount": 5406,
+      "pageCount": 6,
+      "startPage": 91
     },
     {
       "index": 26,
-      "title": "Part 26",
-      "wordCount": 5000,
+      "title": "Chapter 3",
+      "wordCount": 4366,
       "pageCount": 5,
-      "startPage": 126
+      "startPage": 97
     },
     {
       "index": 27,
-      "title": "Part 27",
-      "wordCount": 4403,
+      "title": "Chapter 1",
+      "wordCount": 713,
+      "pageCount": 1,
+      "startPage": 102
+    },
+    {
+      "index": 28,
+      "title": "Chapter 2",
+      "wordCount": 4896,
       "pageCount": 5,
+      "startPage": 103
+    },
+    {
+      "index": 29,
+      "title": "Chapter 3",
+      "wordCount": 2278,
+      "pageCount": 3,
+      "startPage": 108
+    },
+    {
+      "index": 30,
+      "title": "Chapter 4",
+      "wordCount": 1730,
+      "pageCount": 2,
+      "startPage": 111
+    },
+    {
+      "index": 31,
+      "title": "Chapter 5",
+      "wordCount": 122,
+      "pageCount": 1,
+      "startPage": 113
+    },
+    {
+      "index": 32,
+      "title": "Chapter 32",
+      "wordCount": 7663,
+      "pageCount": 8,
+      "startPage": 114
+    },
+    {
+      "index": 33,
+      "title": "Chapter 1",
+      "wordCount": 1498,
+      "pageCount": 2,
+      "startPage": 122
+    },
+    {
+      "index": 34,
+      "title": "Chapter 2",
+      "wordCount": 2819,
+      "pageCount": 3,
+      "startPage": 124
+    },
+    {
+      "index": 35,
+      "title": "Chapter 3",
+      "wordCount": 2129,
+      "pageCount": 3,
+      "startPage": 127
+    },
+    {
+      "index": 36,
+      "title": "Chapter 4",
+      "wordCount": 171,
+      "pageCount": 1,
+      "startPage": 130
+    },
+    {
+      "index": 37,
+      "title": "Chapter 5",
+      "wordCount": 2437,
+      "pageCount": 3,
       "startPage": 131
+    },
+    {
+      "index": 38,
+      "title": "Chapter 6",
+      "wordCount": 1592,
+      "pageCount": 2,
+      "startPage": 134
+    },
+    {
+      "index": 39,
+      "title": "Chapter 39",
+      "wordCount": 8322,
+      "pageCount": 9,
+      "startPage": 136
+    },
+    {
+      "index": 40,
+      "title": "Chapter 1",
+      "wordCount": 10796,
+      "pageCount": 11,
+      "startPage": 145
+    },
+    {
+      "index": 41,
+      "title": "Notes and Acknowledgments",
+      "wordCount": 968,
+      "pageCount": 1,
+      "startPage": 156
+    },
+    {
+      "index": 42,
+      "title": "A Note About the Author",
+      "wordCount": 106,
+      "pageCount": 1,
+      "startPage": 157
     }
   ]
 }
