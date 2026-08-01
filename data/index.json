@@ -217,6 +217,15 @@
       "totalChapters": 39
     },
     {
+      "id": "practical-lock-picking-a-physical-penetration-tester-s-training-guide",
+      "title": "Practical Lock Picking: A Physical Penetration Tester's Training Guide",
+      "author": "Deviant Ollam",
+      "description": "Practical Lock Picking: A Physical Penetration Tester's Training Guide introduces the reader to the basic principles of lock picking. The book combines both easy-to-follow, step-by-step lessons, and tutorials that will help security-conscious people learn how to open most of the locks they may encounter during auditing or assessment work. It covers the fundamentals of pin tumbler and wafer locks; the basics of picking; beginner and advanced training; and quick entry techniques. Whether the stude",
+      "totalWords": 72702,
+      "totalPages": 73,
+      "totalChapters": 17
+    },
+    {
       "id": "pratchett-terry-discworld-16-soul-music",
       "title": "Pratchett, Terry - Discworld 16 - Soul Music",
       "author": "Pratchett, Terry",
@@ -541,5 +550,5 @@
       "totalChapters": 52
     }
   ],
-  "updatedAt": "2026-08-01T01:06:40.661Z"
+  "updatedAt": "2026-08-01T01:14:02.475Z"
 }
