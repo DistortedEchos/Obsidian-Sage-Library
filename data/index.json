@@ -469,6 +469,15 @@
       "totalChapters": 35
     },
     {
+      "id": "zen-and-the-art-of-motorcycle-maintenance",
+      "title": "Zen and the Art of Motorcycle Maintenance",
+      "author": "Robert M. Pirsig",
+      "description": "SUMMARY: A narration of a summer motorcycle trip undertaken by a father and his son, Zen and the Art of Motorcycle Maintenance becomes a personal and philosophical odyssey into fundamental questions on how to live. The narrator's relationship with his son leads to a powerful self-reckoning; the craft of motorcycle maintenance leads to an austerely beautiful process for reconciling science, religion, and humanism. Resonant with the confusions of existence, this classic is a touching and transcend",
+      "totalWords": 141529,
+      "totalPages": 142,
+      "totalChapters": 33
+    },
+    {
       "id": "zodiac-academy-3-the-reckoning-an-academy-bully-romance-supernatural-bullies-and-beasts",
       "title": "Zodiac Academy 3: The Reckoning: An Academy Bully Romance (Supernatural Bullies and Beasts)",
       "author": "Caroline Peckham",
@@ -532,5 +541,5 @@
       "totalChapters": 52
     }
   ],
-  "updatedAt": "2026-08-01T00:59:10.124Z"
+  "updatedAt": "2026-08-01T01:06:40.661Z"
 }
