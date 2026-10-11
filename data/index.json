@@ -505,6 +505,15 @@
       "totalChapters": 35
     },
     {
+      "id": "wuthering-heights",
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "description": "",
+      "totalWords": 116403,
+      "totalPages": 117,
+      "totalChapters": 37
+    },
+    {
       "id": "zen-and-the-art-of-motorcycle-maintenance",
       "title": "Zen and the Art of Motorcycle Maintenance",
       "author": "Robert M. Pirsig",
@@ -577,5 +586,5 @@
       "totalChapters": 52
     }
   ],
-  "updatedAt": "2026-10-11T21:38:47.105Z"
+  "updatedAt": "2026-10-11T21:50:33.613Z"
 }

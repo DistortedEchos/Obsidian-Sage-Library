@@ -1,0 +1,271 @@
+{
+  "id": "wuthering-heights",
+  "title": "Wuthering Heights",
+  "author": "Emily Brontë",
+  "description": "",
+  "filename": "Wuthering Heights_Brontë, Emily.epub",
+  "totalWords": 116403,
+  "totalPages": 117,
+  "totalChapters": 37,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Copyright Page",
+      "wordCount": 110,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "CONTENTS",
+      "wordCount": 72,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "CHAPTER 1",
+      "wordCount": 1917,
+      "pageCount": 2,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "CHAPTER 2",
+      "wordCount": 3340,
+      "pageCount": 4,
+      "startPage": 5
+    },
+    {
+      "index": 5,
+      "title": "CHAPTER 3",
+      "wordCount": 4808,
+      "pageCount": 5,
+      "startPage": 9
+    },
+    {
+      "index": 6,
+      "title": "CHAPTER 4",
+      "wordCount": 2690,
+      "pageCount": 3,
+      "startPage": 14
+    },
+    {
+      "index": 7,
+      "title": "CHAPTER 5",
+      "wordCount": 1405,
+      "pageCount": 2,
+      "startPage": 17
+    },
+    {
+      "index": 8,
+      "title": "CHAPTER 6",
+      "wordCount": 2568,
+      "pageCount": 3,
+      "startPage": 19
+    },
+    {
+      "index": 9,
+      "title": "CHAPTER 7",
+      "wordCount": 4004,
+      "pageCount": 5,
+      "startPage": 22
+    },
+    {
+      "index": 10,
+      "title": "CHAPTER 8",
+      "wordCount": 3394,
+      "pageCount": 4,
+      "startPage": 27
+    },
+    {
+      "index": 11,
+      "title": "CHAPTER 9",
+      "wordCount": 6070,
+      "pageCount": 7,
+      "startPage": 31
+    },
+    {
+      "index": 12,
+      "title": "CHAPTER 10",
+      "wordCount": 6305,
+      "pageCount": 7,
+      "startPage": 38
+    },
+    {
+      "index": 13,
+      "title": "CHAPTER 11",
+      "wordCount": 4072,
+      "pageCount": 5,
+      "startPage": 45
+    },
+    {
+      "index": 14,
+      "title": "CHAPTER 12",
+      "wordCount": 4935,
+      "pageCount": 5,
+      "startPage": 50
+    },
+    {
+      "index": 15,
+      "title": "CHAPTER 13",
+      "wordCount": 4257,
+      "pageCount": 5,
+      "startPage": 55
+    },
+    {
+      "index": 16,
+      "title": "CHAPTER 14",
+      "wordCount": 3363,
+      "pageCount": 4,
+      "startPage": 60
+    },
+    {
+      "index": 17,
+      "title": "CHAPTER 15",
+      "wordCount": 3146,
+      "pageCount": 4,
+      "startPage": 64
+    },
+    {
+      "index": 18,
+      "title": "CHAPTER 16",
+      "wordCount": 1755,
+      "pageCount": 2,
+      "startPage": 68
+    },
+    {
+      "index": 19,
+      "title": "CHAPTER 17",
+      "wordCount": 6815,
+      "pageCount": 7,
+      "startPage": 70
+    },
+    {
+      "index": 20,
+      "title": "CHAPTER 18",
+      "wordCount": 3585,
+      "pageCount": 4,
+      "startPage": 77
+    },
+    {
+      "index": 21,
+      "title": "CHAPTER 19",
+      "wordCount": 1593,
+      "pageCount": 2,
+      "startPage": 81
+    },
+    {
+      "index": 22,
+      "title": "CHAPTER 20",
+      "wordCount": 2167,
+      "pageCount": 3,
+      "startPage": 83
+    },
+    {
+      "index": 23,
+      "title": "CHAPTER 21",
+      "wordCount": 6352,
+      "pageCount": 7,
+      "startPage": 86
+    },
+    {
+      "index": 24,
+      "title": "CHAPTER 22",
+      "wordCount": 2337,
+      "pageCount": 3,
+      "startPage": 93
+    },
+    {
+      "index": 25,
+      "title": "CHAPTER 23",
+      "wordCount": 2887,
+      "pageCount": 3,
+      "startPage": 96
+    },
+    {
+      "index": 26,
+      "title": "CHAPTER 24",
+      "wordCount": 3893,
+      "pageCount": 4,
+      "startPage": 99
+    },
+    {
+      "index": 27,
+      "title": "CHAPTER 25",
+      "wordCount": 1421,
+      "pageCount": 2,
+      "startPage": 103
+    },
+    {
+      "index": 28,
+      "title": "CHAPTER 26",
+      "wordCount": 1477,
+      "pageCount": 2,
+      "startPage": 105
+    },
+    {
+      "index": 29,
+      "title": "CHAPTER 27",
+      "wordCount": 4520,
+      "pageCount": 5,
+      "startPage": 107
+    },
+    {
+      "index": 30,
+      "title": "CHAPTER 28",
+      "wordCount": 2622,
+      "pageCount": 3,
+      "startPage": 112
+    },
+    {
+      "index": 31,
+      "title": "CHAPTER 29",
+      "wordCount": 2277,
+      "pageCount": 3,
+      "startPage": 115
+    },
+    {
+      "index": 32,
+      "title": "CHAPTER 30",
+      "wordCount": 2385,
+      "pageCount": 3,
+      "startPage": 118
+    },
+    {
+      "index": 33,
+      "title": "CHAPTER 31",
+      "wordCount": 2091,
+      "pageCount": 3,
+      "startPage": 121
+    },
+    {
+      "index": 34,
+      "title": "CHAPTER 32",
+      "wordCount": 4068,
+      "pageCount": 5,
+      "startPage": 124
+    },
+    {
+      "index": 35,
+      "title": "CHAPTER 33",
+      "wordCount": 3139,
+      "pageCount": 4,
+      "startPage": 129
+    },
+    {
+      "index": 36,
+      "title": "CHAPTER 34",
+      "wordCount": 4380,
+      "pageCount": 5,
+      "startPage": 133
+    },
+    {
+      "index": 37,
+      "title": "ABOUT THE AUTHOR",
+      "wordCount": 183,
+      "pageCount": 1,
+      "startPage": 138
+    }
+  ]
+}
