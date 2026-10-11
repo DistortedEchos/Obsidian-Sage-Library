@@ -1,0 +1,61 @@
+{
+  "id": "1984",
+  "title": "1984",
+  "author": "Orwell, George",
+  "description": "“ The Party told you to reject the evidence of your eyes and ears. It was their final, most essential command. ” Winston Smith toes the Party line, rewriting history to satisfy the demands of the Ministry of Truth. With each lie he writes, Winston grows to hate the Party that seeks power for its own sake and persecutes those who dare to commit thoughtcrimes. But as he starts to think for himself, Winston can’t escape the fact that Big Brother is always watching... A startling and haunting vision",
+  "filename": "1984 [75th Anniversary Edition] by George Orwell.epub",
+  "totalWords": 112197,
+  "totalPages": 113,
+  "totalChapters": 7,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "75th Anniversary Introduction",
+      "wordCount": 2458,
+      "pageCount": 3,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Foreword",
+      "wordCount": 6159,
+      "pageCount": 7,
+      "startPage": 4
+    },
+    {
+      "index": 3,
+      "title": "One",
+      "wordCount": 34316,
+      "pageCount": 35,
+      "startPage": 11
+    },
+    {
+      "index": 4,
+      "title": "Two",
+      "wordCount": 40553,
+      "pageCount": 41,
+      "startPage": 46
+    },
+    {
+      "index": 5,
+      "title": "Three",
+      "wordCount": 24312,
+      "pageCount": 25,
+      "startPage": 87
+    },
+    {
+      "index": 6,
+      "title": "Appendix",
+      "wordCount": 4353,
+      "pageCount": 5,
+      "startPage": 112
+    },
+    {
+      "index": 7,
+      "title": "Chapter 7",
+      "wordCount": 46,
+      "pageCount": 1,
+      "startPage": 117
+    }
+  ]
+}

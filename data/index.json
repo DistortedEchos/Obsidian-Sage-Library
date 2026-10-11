@@ -1,6 +1,15 @@
 {
   "books": [
     {
+      "id": "1984",
+      "title": "1984",
+      "author": "Orwell, George",
+      "description": "“ The Party told you to reject the evidence of your eyes and ears. It was their final, most essential command. ” Winston Smith toes the Party line, rewriting history to satisfy the demands of the Ministry of Truth. With each lie he writes, Winston grows to hate the Party that seeks power for its own sake and persecutes those who dare to commit thoughtcrimes. But as he starts to think for himself, Winston can’t escape the fact that Big Brother is always watching... A startling and haunting vision",
+      "totalWords": 112197,
+      "totalPages": 113,
+      "totalChapters": 7
+    },
+    {
       "id": "a-city-is-not-a-computer",
       "title": "A City Is Not a Computer",
       "author": "Mattern, Shannon;",
@@ -568,5 +577,5 @@
       "totalChapters": 52
     }
   ],
-  "updatedAt": "2026-08-24T21:48:29.707Z"
+  "updatedAt": "2026-10-11T21:38:47.105Z"
 }
